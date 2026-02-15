@@ -2,9 +2,7 @@
 <h3 align="center">I am an AI & Data Science Engineering student focused on building intelligent and scalable systems. My interests lie in Artificial Intelligence, Data Science, Cloud Computing, and DevOps. I prioritize practical learning by consistently working on real-world, project-driven development. I am strengthening my skills in system design, automation, and deployment to build production-ready solutions. Committed to continuous learning and disciplined execution, I am growing into a technically strong and future-ready engineer.</h3>
 
 - 🔭 I’m currently working on [Finpal](https://github.com/VinuKarthick7/FinPal.git)
-
 - 🤝 I’m looking for help with [AccessibleChennai](https://github.com/gsribarath/ACCESSIBLE-CHENNAI-APP.git)
-
 - 📫 How to reach me **gsribarath@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
